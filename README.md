@@ -90,7 +90,7 @@ Sep 07 13:36:39 ecsEfG4z v2ray[18454]: 2022/09/07 13:36:39 [Warning] v2ray.com/c
 [root@ecsEfG4z v2ray]# 
  ```
  
- 查看systemctl status v2ray 可以正常运行，访问伪装的域名（如abc.grooow.cn）可以看到之前设置的页面或站点。访问域名+路径 abc.grooow.cn/def，响应Bad Request，说明成功了。
+ 查看systemctl status v2ray 可以正常运行，访问伪装的域名（如abc.xxxxxx.cn）可以看到之前设置的页面或站点。访问域名+路径 abc.xxxxxxx.cn/def，响应Bad Request，说明成功了。
  
  
 
