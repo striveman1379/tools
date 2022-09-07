@@ -27,12 +27,15 @@ bash v2ray.sh
 ```
 
 ![image](https://user-images.githubusercontent.com/36028587/188813851-cd1feb29-20da-42de-b5e7-46ec20ed2107.png)
-![image](https://user-images.githubusercontent.com/36028587/188814002-0d424e7d-58d6-479e-a66c-266ae1763afb.png)
+![image](https://user-images.githubusercontent.com/36028587/188823026-a4e90b21-c20c-4653-8e38-e2b2fec69ab6.png)
+
 
 接下来按照提示一步步安装即可，中间会安装各种组件，会自动安装
 
 此脚本可能会造成v2ray安装失败，如下：
-![image](https://user-images.githubusercontent.com/36028587/188814859-90a1bb38-e5f0-4d1d-8b50-9129061f918b.png)
+
+![image](https://user-images.githubusercontent.com/36028587/188822182-4711c0a2-fd83-41c0-8b8a-bb70662c8f61.png)
+
 
 ```
 cp: cannot stat '/tmp/v2ray/v2ctl': No such file or directory
